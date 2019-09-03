@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HashTable
+comment1.params=
+comment1.target=HashTable()
+comment2.params=stuff\ value
+comment2.target=void\ put(java.lang.Object,\ java.lang.Object)
+comment3.params=hashCode
+comment3.target=java.lang.Object\ get(java.lang.Object)
+numComments=4

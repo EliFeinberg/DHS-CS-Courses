@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QuestionNode
+comment1.params=info
+comment1.target=QuestionNode(java.lang.String)
+comment2.params=info\ y\ n
+comment2.target=QuestionNode(java.lang.String,\ QuestionNode,\ QuestionNode)
+comment3.params=
+comment3.target=boolean\ isAnswerNode()
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WordCount
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WordCount\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Word
+comment1.target=WordCount(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordCount\r\n
+comment2.params=
+comment2.target=java.lang.String\ getWord()
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=
+comment4.target=void\ increment()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=other
+comment6.target=boolean\ equals(WordCount)
+comment7.params=other
+comment7.target=int\ compareTo(WordCount)
+numComments=8

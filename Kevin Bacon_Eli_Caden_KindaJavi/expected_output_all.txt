@@ -1,0 +1,371 @@
+Welcome to the Six Degrees of Kevin Bacon.
+If you tell me an actor's name, I'll connect them to Kevin Bacon through
+the movies they've appeared in.  I bet your actor has a Kevin Bacon number
+of less than six!
+
+Actor's name (or ALL for everyone)? ALL
+
+Path from Nicolas Cage to Kevin Bacon:
+Nicolas Cage was in Matchstick Men (2003) with Alison Lohman
+Alison Lohman was in Where the Truth Lies (2005) with Kevin Bacon
+Nicolas Cage's Bacon number is 2
+
+Path from A. Aaronsen to Kevin Bacon:
+No path found.
+
+Path from George Clooney to Kevin Bacon:
+George Clooney was in Ocean's Eleven (2001) with Julia Roberts
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+George Clooney's Bacon number is 2
+
+Path from Sean Connery to Kevin Bacon:
+Sean Connery was in Rising Sun (1993) with Peter Crombie
+Peter Crombie was in My Dog Skip (2000) with Kevin Bacon
+Sean Connery's Bacon number is 2
+
+Path from Tom Hanks to Kevin Bacon:
+Tom Hanks was in Apollo 13 (1995) with Kevin Bacon
+Tom Hanks's Bacon number is 1
+
+Path from Mark Hamill to Kevin Bacon:
+Mark Hamill was in Slipstream (1989) with Bill Paxton
+Bill Paxton was in Apollo 13 (1995) with Kevin Bacon
+Mark Hamill's Bacon number is 2
+
+Path from Julia Roberts to Kevin Bacon:
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+Julia Roberts's Bacon number is 1
+
+Path from Ben Affleck to Kevin Bacon:
+Ben Affleck was in Good Will Hunting (1997) with Matt Damon
+Matt Damon was in Ocean's Eleven (2001) with Julia Roberts
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+Ben Affleck's Bacon number is 3
+
+Path from Aleksandr Gromov to Kevin Bacon:
+Aleksandr Gromov was in Tikhij Don (1930) with Yelena Maksimova
+Yelena Maksimova was in Bezottsovshchina (1976) with Lev Prygunov
+Lev Prygunov was in Saint, The (1997) with Elisabeth Shue
+Elisabeth Shue was in Hollow Man (2000) with Kevin Bacon
+Aleksandr Gromov's Bacon number is 4
+
+Path from P. Biryukov to Kevin Bacon:
+P. Biryukov was in Pikovaya dama (1910) with Aleksandr Gromov
+Aleksandr Gromov was in Tikhij Don (1930) with Yelena Maksimova
+Yelena Maksimova was in Bezottsovshchina (1976) with Lev Prygunov
+Lev Prygunov was in Saint, The (1997) with Elisabeth Shue
+Elisabeth Shue was in Hollow Man (2000) with Kevin Bacon
+P. Biryukov's Bacon number is 5
+
+Path from Clint Howard to Kevin Bacon:
+Clint Howard was in My Dog Skip (2000) with Kevin Bacon
+Clint Howard's Bacon number is 1
+
+Path from Diane Lane to Kevin Bacon:
+Diane Lane was in My Dog Skip (2000) with Kevin Bacon
+Diane Lane's Bacon number is 1
+
+Path from Sean Astin to Kevin Bacon:
+Sean Astin was in White Water Summer (1987) with Kevin Bacon
+Sean Astin's Bacon number is 1
+
+Path from Zoya Barantsevich to Kevin Bacon:
+Zoya Barantsevich was in Slesar i kantzler (1923) with Nikolai Panov
+Nikolai Panov was in Zhenshchina s kinzhalom (1916) with Zoia Karabanova
+Zoia Karabanova was in Song to Remember, A (1945) with William Challee
+William Challee was in Irish Whiskey Rebellion (1972) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Zoya Barantsevich's Bacon number is 5
+
+Path from Theresa Russell to Kevin Bacon:
+Theresa Russell was in Wild Things (1998) with Kevin Bacon
+Theresa Russell's Bacon number is 1
+
+Path from Henry Fonda to Kevin Bacon:
+Henry Fonda was in Midway (1976) with Robert Wagner
+Robert Wagner was in Wild Things (1998) with Kevin Bacon
+Henry Fonda's Bacon number is 2
+
+Path from Tea Leoni to Kevin Bacon:
+Tea Leoni was in Switch (1991) with John Lafayette
+John Lafayette was in Loverboy (2005) with Kevin Bacon
+Tea Leoni's Bacon number is 2
+
+Path from Vittorio Gassman to Kevin Bacon:
+Vittorio Gassman was in Sleepers (1996) with Kevin Bacon
+Vittorio Gassman's Bacon number is 1
+
+Path from Matt Damon to Kevin Bacon:
+Matt Damon was in Ocean's Eleven (2001) with Julia Roberts
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+Matt Damon's Bacon number is 2
+
+Path from Nikolai Brilling to Kevin Bacon:
+Nikolai Brilling was in Otello (1955) with Kathleen Byron
+Kathleen Byron was in Saving Private Ryan (1998) with Tom Hanks
+Tom Hanks was in Apollo 13 (1995) with Kevin Bacon
+Nikolai Brilling's Bacon number is 3
+
+Path from Angelina Jolie to Kevin Bacon:
+Angelina Jolie was in Life or Something Like It (2002) with Melissa Errico
+Melissa Errico was in Loverboy (2005) with Kevin Bacon
+Angelina Jolie's Bacon number is 2
+
+Path from Marilyn Monroe to Kevin Bacon:
+Marilyn Monroe was in Niagara (1953) with George Ives
+George Ives was in Stir of Echoes (1999) with Kevin Bacon
+Marilyn Monroe's Bacon number is 2
+
+Path from Steve Altes to Kevin Bacon:
+Steve Altes was in Hollow Man (2000) with Kevin Bacon
+Steve Altes's Bacon number is 1
+
+Path from Peter Crombie to Kevin Bacon:
+Peter Crombie was in My Dog Skip (2000) with Kevin Bacon
+Peter Crombie's Bacon number is 1
+
+Path from Bebe Drake to Kevin Bacon:
+Bebe Drake was in Report to the Commissioner (1975) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Bebe Drake's Bacon number is 2
+
+Path from Alec Guinness to Kevin Bacon:
+Alec Guinness was in Kafka (1991) with Theresa Russell
+Theresa Russell was in Wild Things (1998) with Kevin Bacon
+Alec Guinness's Bacon number is 2
+
+Path from Gerry Becker to Kevin Bacon:
+Gerry Becker was in Sleepers (1996) with Kevin Bacon
+Gerry Becker's Bacon number is 1
+
+Path from Aage Schmidt to Kevin Bacon:
+Aage Schmidt was in Begyndte ombord, Det (1937) with Valso Holm
+Valso Holm was in Spion 503 (1958) with Max von Sydow
+Max von Sydow was in Judge Dredd (1995) with Diane Lane
+Diane Lane was in My Dog Skip (2000) with Kevin Bacon
+Aage Schmidt's Bacon number is 4
+
+Path from Val Kilmer to Kevin Bacon:
+Val Kilmer was in Saint, The (1997) with Elisabeth Shue
+Elisabeth Shue was in Hollow Man (2000) with Kevin Bacon
+Val Kilmer's Bacon number is 2
+
+Path from Edward Norton to Kevin Bacon:
+Edward Norton was in Fight Club (1999) with Brad Pitt
+Brad Pitt was in Ocean's Eleven (2001) with Julia Roberts
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+Edward Norton's Bacon number is 3
+
+Path from Max von Sydow to Kevin Bacon:
+Max von Sydow was in Judge Dredd (1995) with Diane Lane
+Diane Lane was in My Dog Skip (2000) with Kevin Bacon
+Max von Sydow's Bacon number is 2
+
+Path from Oliver Platt to Kevin Bacon:
+Oliver Platt was in Loverboy (2005) with Kevin Bacon
+Oliver Platt's Bacon number is 1
+
+Path from Valso Holm to Kevin Bacon:
+Valso Holm was in Spion 503 (1958) with Max von Sydow
+Max von Sydow was in Judge Dredd (1995) with Diane Lane
+Diane Lane was in My Dog Skip (2000) with Kevin Bacon
+Valso Holm's Bacon number is 3
+
+Path from Gerard Depardieu to Kevin Bacon:
+Gerard Depardieu was in Unhook the Stars (1996) with Clint Howard
+Clint Howard was in My Dog Skip (2000) with Kevin Bacon
+Gerard Depardieu's Bacon number is 2
+
+Path from Robin Williams to Kevin Bacon:
+Robin Williams was in Good Will Hunting (1997) with Matt Damon
+Matt Damon was in Ocean's Eleven (2001) with Julia Roberts
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+Robin Williams's Bacon number is 3
+
+Path from A. Paliakov to Kevin Bacon:
+A. Paliakov was in Kutuzov (1944) with Nikolai Brilling
+Nikolai Brilling was in Otello (1955) with Kathleen Byron
+Kathleen Byron was in Saving Private Ryan (1998) with Tom Hanks
+Tom Hanks was in Apollo 13 (1995) with Kevin Bacon
+A. Paliakov's Bacon number is 4
+
+Path from Nikolai Panov to Kevin Bacon:
+Nikolai Panov was in Zhenshchina s kinzhalom (1916) with Zoia Karabanova
+Zoia Karabanova was in Song to Remember, A (1945) with William Challee
+William Challee was in Irish Whiskey Rebellion (1972) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Nikolai Panov's Bacon number is 4
+
+Path from Elisabeth Shue to Kevin Bacon:
+Elisabeth Shue was in Hollow Man (2000) with Kevin Bacon
+Elisabeth Shue's Bacon number is 1
+
+Path from Alison Lohman to Kevin Bacon:
+Alison Lohman was in Where the Truth Lies (2005) with Kevin Bacon
+Alison Lohman's Bacon number is 1
+
+Path from Lev Prygunov to Kevin Bacon:
+Lev Prygunov was in Saint, The (1997) with Elisabeth Shue
+Elisabeth Shue was in Hollow Man (2000) with Kevin Bacon
+Lev Prygunov's Bacon number is 2
+
+Path from William Challee to Kevin Bacon:
+William Challee was in Irish Whiskey Rebellion (1972) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+William Challee's Bacon number is 2
+
+Path from Denise Richards to Kevin Bacon:
+Denise Richards was in Wild Things (1998) with Kevin Bacon
+Denise Richards's Bacon number is 1
+
+Path from Yelena Maksimova to Kevin Bacon:
+Yelena Maksimova was in Bezottsovshchina (1976) with Lev Prygunov
+Lev Prygunov was in Saint, The (1997) with Elisabeth Shue
+Elisabeth Shue was in Hollow Man (2000) with Kevin Bacon
+Yelena Maksimova's Bacon number is 3
+
+Path from Bill Paxton to Kevin Bacon:
+Bill Paxton was in Apollo 13 (1995) with Kevin Bacon
+Bill Paxton's Bacon number is 1
+
+Path from Z. Zakowsky to Kevin Bacon:
+No path found.
+
+Path from Kevin Bacon to Kevin Bacon:
+Kevin Bacon's Bacon number is 0
+
+Path from Zoia Karabanova to Kevin Bacon:
+Zoia Karabanova was in Song to Remember, A (1945) with William Challee
+William Challee was in Irish Whiskey Rebellion (1972) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Zoia Karabanova's Bacon number is 3
+
+Path from Theodore Hesburgh to Kevin Bacon:
+Theodore Hesburgh was in Rudy (1993) with Gerry Becker
+Gerry Becker was in Sleepers (1996) with Kevin Bacon
+Theodore Hesburgh's Bacon number is 2
+
+Path from Jacques Perrin to Kevin Bacon:
+Jacques Perrin was in Deserto dei tartari, Il (1976) with Vittorio Gassman
+Vittorio Gassman was in Sleepers (1996) with Kevin Bacon
+Jacques Perrin's Bacon number is 2
+
+Path from Angelo Rossitto to Kevin Bacon:
+Angelo Rossitto was in Dark, The (1979) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Angelo Rossitto's Bacon number is 2
+
+Path from John Lafayette to Kevin Bacon:
+John Lafayette was in Loverboy (2005) with Kevin Bacon
+John Lafayette's Bacon number is 1
+
+Path from Carrie Fisher to Kevin Bacon:
+Carrie Fisher was in Soapdish (1991) with Elisabeth Shue
+Elisabeth Shue was in Hollow Man (2000) with Kevin Bacon
+Carrie Fisher's Bacon number is 2
+
+Path from Harrison Ford to Kevin Bacon:
+Harrison Ford was in Random Hearts (1999) with Steve Altes
+Steve Altes was in Hollow Man (2000) with Kevin Bacon
+Harrison Ford's Bacon number is 2
+
+Path from William Shatner to Kevin Bacon:
+William Shatner was in Loaded Weapon 1 (1993) with Denise Richards
+Denise Richards was in Wild Things (1998) with Kevin Bacon
+William Shatner's Bacon number is 2
+
+Path from Jim Carrey to Kevin Bacon:
+Jim Carrey was in Simon Birch (1998) with Oliver Platt
+Oliver Platt was in Loverboy (2005) with Kevin Bacon
+Jim Carrey's Bacon number is 2
+
+Path from Dana Young to Kevin Bacon:
+Dana Young was in Bersaglio mobile (1967) with Bebe Drake
+Bebe Drake was in Report to the Commissioner (1975) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Dana Young's Bacon number is 3
+
+Path from Beau Starr to Kevin Bacon:
+Beau Starr was in Where the Truth Lies (2005) with Kevin Bacon
+Beau Starr's Bacon number is 1
+
+Path from Patrick Stewart to Kevin Bacon:
+Patrick Stewart was in Prince of Egypt, The (1998) with Steve Martin
+Steve Martin was in Novocaine (2000) with Kevin Bacon
+Patrick Stewart's Bacon number is 2
+
+Path from Olga Baclanova to Kevin Bacon:
+Olga Baclanova was in Freaks (1932) with Angelo Rossitto
+Angelo Rossitto was in Dark, The (1979) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Olga Baclanova's Bacon number is 3
+
+Path from Melissa Errico to Kevin Bacon:
+Melissa Errico was in Loverboy (2005) with Kevin Bacon
+Melissa Errico's Bacon number is 1
+
+Path from Minnie Driver to Kevin Bacon:
+Minnie Driver was in Good Will Hunting (1997) with Matt Damon
+Matt Damon was in Ocean's Eleven (2001) with Julia Roberts
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+Minnie Driver's Bacon number is 3
+
+Path from William Devane to Kevin Bacon:
+William Devane was in Hollow Man (2000) with Kevin Bacon
+William Devane's Bacon number is 1
+
+Path from Keanu Reeves to Kevin Bacon:
+Keanu Reeves was in Speed (1994) with Beau Starr
+Beau Starr was in Where the Truth Lies (2005) with Kevin Bacon
+Keanu Reeves's Bacon number is 2
+
+Path from Richard Gere to Kevin Bacon:
+Richard Gere was in Pretty Woman (1990) with Julia Roberts
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+Richard Gere's Bacon number is 2
+
+Path from Robert Wagner to Kevin Bacon:
+Robert Wagner was in Wild Things (1998) with Kevin Bacon
+Robert Wagner's Bacon number is 1
+
+Path from Yelena Chaika to Kevin Bacon:
+Yelena Chaika was in Ostrov zabenya (1917) with Viktor Tourjansky
+Viktor Tourjansky was in Zagrobnaya skitalitsa (1915) with Olga Baclanova
+Olga Baclanova was in Freaks (1932) with Angelo Rossitto
+Angelo Rossitto was in Dark, The (1979) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Yelena Chaika's Bacon number is 5
+
+Path from Kathleen Byron to Kevin Bacon:
+Kathleen Byron was in Saving Private Ryan (1998) with Tom Hanks
+Tom Hanks was in Apollo 13 (1995) with Kevin Bacon
+Kathleen Byron's Bacon number is 2
+
+Path from Steve Martin to Kevin Bacon:
+Steve Martin was in Novocaine (2000) with Kevin Bacon
+Steve Martin's Bacon number is 1
+
+Path from Viktor Tourjansky to Kevin Bacon:
+Viktor Tourjansky was in Zagrobnaya skitalitsa (1915) with Olga Baclanova
+Olga Baclanova was in Freaks (1932) with Angelo Rossitto
+Angelo Rossitto was in Dark, The (1979) with William Devane
+William Devane was in Hollow Man (2000) with Kevin Bacon
+Viktor Tourjansky's Bacon number is 4
+
+Path from Brad Pitt to Kevin Bacon:
+Brad Pitt was in Ocean's Eleven (2001) with Julia Roberts
+Julia Roberts was in Flatliners (1990) with Kevin Bacon
+Brad Pitt's Bacon number is 2
+
+Path from Christel Holch to Kevin Bacon:
+Christel Holch was in Hvide Slavehandel, Den (1910/I) with Aage Schmidt
+Aage Schmidt was in Begyndte ombord, Det (1937) with Valso Holm
+Valso Holm was in Spion 503 (1958) with Max von Sydow
+Max von Sydow was in Judge Dredd (1995) with Diane Lane
+Diane Lane was in My Dog Skip (2000) with Kevin Bacon
+Christel Holch's Bacon number is 5
+
+Path from George Ives to Kevin Bacon:
+George Ives was in Stir of Echoes (1999) with Kevin Bacon
+George Ives's Bacon number is 1
+

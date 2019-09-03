@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GuitarHeroine
+comment0.text=\r\n\ This\ GuitarHeroine\ object\ .\ .\ .\r\n\ https\://www.hooktheory.com/theorytab/view/toby-fox/megalovania?node\=b6.5\r\n\ @author\ \ \r\n\ @version\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ intro()
+comment3.params=
+comment3.target=void\ verse()
+comment4.params=
+comment4.target=void\ run()
+numComments=5

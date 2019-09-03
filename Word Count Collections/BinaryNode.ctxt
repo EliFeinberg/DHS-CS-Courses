@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BinaryNode
+comment0.text=\r\n\ This\ BinaryNode\ object\ defines\ an\ implementation\ of\ Comparable\ nodes\ for\ a\ binary\ search\ tree\ (BST)\r\n\ \r\n\ @author\ \ Tom\ Bredemeier\r\n\ @version\ January\ 31,\ 2013\r\n
+comment1.params=info
+comment1.target=BinaryNode(java.lang.Comparable)
+comment2.params=info
+comment2.target=void\ setInfo(java.lang.Comparable)
+comment3.params=
+comment3.target=java.lang.Comparable\ getInfo()
+comment4.params=link
+comment4.target=void\ setLeft(BinaryNode)
+comment5.params=link
+comment5.target=void\ setRight(BinaryNode)
+comment6.params=
+comment6.target=BinaryNode\ getLeft()
+comment7.params=
+comment7.target=BinaryNode\ getRight()
+numComments=8

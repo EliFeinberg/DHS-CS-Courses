@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Function
+comment0.text=\r\n\ Function.java\ \ \r\n\r\n\ @author\:\r\n\ Assignment\ \#\:\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ Creates\ a\ list\ of\ Terms\ repersenting\ a\ polynominal\r\n
+comment1.params=
+comment1.target=Function()
+comment2.params=Coefficinet\ powers
+comment2.target=void\ add(double,\ int)
+comment3.params=X
+comment3.target=double\ approximate(double)
+comment3.text=\r\n\ Runs\ through\ the\ list\ of\ polynomials\ substituting\ using\ X\ \r\n
+numComments=4

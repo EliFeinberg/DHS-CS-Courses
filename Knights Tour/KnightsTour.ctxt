@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KnightsTour
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r\ c\ count
+comment2.target=void\ solve(int,\ int,\ int)
+comment3.params=a\ b
+comment3.target=int\ compare(int[],\ int[])
+comment4.params=r\ c
+comment4.target=neighbors(int,\ int)
+comment5.params=r\ c
+comment5.target=int\ countNeighbors(int,\ int)
+comment6.params=cnt\ r\ c
+comment6.target=boolean\ orphanDetected(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ printResult()
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EdgeInfo
+comment0.text=Represents\ information\ stored\ in\ each\ edge.
+comment1.params=e
+comment1.target=EdgeInfo(java.lang.Object)
+comment1.text=Constructs\ information\ about\ the\ given\ edge\ with\ the\ default\ edge\ weight.
+comment2.params=e\ weight
+comment2.target=EdgeInfo(java.lang.Object,\ int)
+comment2.text=Constructs\ information\ about\ the\ given\ edge\ with\ the\ given\ weight.
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=Returns\ a\ string\ representation\ of\ the\ information\ about\ this\ edge.
+numComments=4

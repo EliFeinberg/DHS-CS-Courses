@@ -1,0 +1,56 @@
+Apple Allergy
+87
+3028
+20832
+Plantar Fasciitis
+35
+1300
+1293
+Insomnia
+10
+1200
+1283
+Swimmer’s Knee
+10
+1134
+2839
+Fleas
+6
+2304
+9233
+No More Wishes
+95
+10000
+9219
+Dysentery
+76
+3404
+1233
+2nd degree burn
+78
+4404
+1204
+Sea Sick
+5
+1000
+2983
+Stabbed in Lung
+70
+9283
+2387
+Food Poisoning
+40
+100
+832
+Dandruff
+1
+200
+932
+1st Degree Frostbite
+45
+1755
+93274
+Shot in Knee
+70
+6025
+9372

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Direction
+comment0.text=\n\ Defines\ the\ direction\ of\ the\ snake\ and\ allows\ for\ only\ valid\ changes\ of\ direction\n\n
+comment1.params=newDirection
+comment1.target=boolean\ compatibleWith(Direction)
+comment1.text=\n\ Checks\ to\ see\ if\ the\ direction\ entered\ is\ a\ valid\ change\ (e.g.\ pressing\ the\ down\ arrow\n\ \ \ \ \ \ if\ you're\ going\ up\ would\ cause\ the\ snake\ to\ die\ and\ is\ therefore\ invalid)\n\ @param\ Direction\ the\ new\ direction\ to\ switch\ to\n
+numComments=2

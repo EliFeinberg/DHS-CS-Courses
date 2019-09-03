@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=QuestionTree
+comment1.params=
+comment1.target=QuestionTree()
+comment2.params=input
+comment2.target=void\ read(java.util.Scanner)
+comment3.params=input
+comment3.target=QuestionNode\ readHelper(java.util.Scanner)
+comment4.params=output
+comment4.target=void\ write(java.io.PrintStream)
+comment5.params=root\ output
+comment5.target=void\ writeTree(QuestionNode,\ java.io.PrintStream)
+comment6.params=
+comment6.target=void\ askQuestions()
+comment7.params=current
+comment7.target=QuestionNode\ askQuestion(QuestionNode)
+comment8.params=finals
+comment8.target=void\ wrongAnswer(QuestionNode)
+comment9.params=prompt
+comment9.target=boolean\ yesTo(java.lang.String)
+numComments=10

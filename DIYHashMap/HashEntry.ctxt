@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=HashEntry
+comment1.params=value\ key
+comment1.target=HashEntry(java.lang.Object,\ java.lang.Object)
+numComments=2

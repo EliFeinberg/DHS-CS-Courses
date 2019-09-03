@@ -1,0 +1,22 @@
+Q:
+Is it a Math Teacher?
+Q:
+Is it a CS Teacher?
+Q:
+Does the teacher teach APCSP
+A:
+Rogers
+Q:
+Does the teacher coach WDT
+A:
+Kaplan
+A:
+Tiveron
+A:
+Leighton
+Q:
+Coaches Wrestling
+A:
+Pechter
+A:
+Anderson

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Disease
+comment1.params=name\ severity\ untreatedTimeToDeath\ treatmentTime
+comment1.target=Disease(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getSeverity()
+comment3.params=
+comment3.target=int\ getUntreatedTimeToDeath()
+comment4.params=
+comment4.target=int\ getTreatmentTime()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

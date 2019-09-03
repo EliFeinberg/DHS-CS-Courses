@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Priority
+comment0.text=\r\n\ Priority.java\ \ \r\n\r\n\ @author\:\r\n\ Assignment\ \#\:\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ \r\n\r\n
+comment1.params=age\ insurance\ severity
+comment1.target=int\ calc(int,\ boolean,\ int)
+numComments=2

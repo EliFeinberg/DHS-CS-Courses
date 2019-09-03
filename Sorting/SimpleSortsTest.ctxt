@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SimpleSortsTest
+comment0.text=\n\ This\ SimpleSortsTest\ object\ tests\ the\ simple\ sorts\ found\ in\ the\ Sorts\ class\ \n\ by\ selecting\ a\ random\ word\ and\ then\ checking\ the\ results\ of\ Sorts\ against\ an\ Exemplar.\n\ \n\ @author\ \ Tom\ Bredemeier\n\ @version\ April\ 10,\ 2013\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=WordCount(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getWord()
+comment2.params=
+comment2.target=int\ getCount()
+comment3.params=
+comment3.target=void\ increment()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=other
+comment5.target=boolean\ equals(WordCount)
+comment6.params=other
+comment6.target=int\ compareTo(WordCount)
+numComments=7

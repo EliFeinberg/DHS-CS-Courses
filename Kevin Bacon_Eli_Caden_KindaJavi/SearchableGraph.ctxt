@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SearchableGraph
+comment1.params=v1\ v2
+comment1.target=boolean\ reachable(java.lang.Object,\ java.lang.Object)
+comment2.params=v1\ v2
+comment2.target=java.util.List\ shortestPath2(java.lang.Object,\ java.lang.Object)
+comment3.params=v1\ v2
+comment3.target=java.util.List\ shortestPath(java.lang.Object,\ java.lang.Object)
+comment4.params=
+comment4.target=void\ clearMarks()
+comment5.params=
+comment5.target=java.util.Set\ getVertices()
+numComments=6

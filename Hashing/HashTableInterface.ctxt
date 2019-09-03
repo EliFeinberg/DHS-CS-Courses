@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ size()
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=key
+comment2.target=int\ hashIndex(java.lang.Object)
+comment3.params=key\ value
+comment3.target=boolean\ put(java.lang.Object,\ java.lang.Object)
+comment4.params=key
+comment4.target=java.lang.Object\ get(java.lang.Object)
+comment5.params=key
+comment5.target=boolean\ remove(java.lang.Object)
+numComments=6

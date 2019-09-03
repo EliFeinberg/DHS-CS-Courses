@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CellAI
+comment1.params=
+comment1.target=CellAI()
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=
+comment3.target=java.lang.String\ getAIName()
+comment4.params=grid
+comment4.target=Location\ select(Grid)
+numComments=5

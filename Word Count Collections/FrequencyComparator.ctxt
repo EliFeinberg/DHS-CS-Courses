@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=wc1\ wc2
+comment0.target=int\ compare(WordCount,\ WordCount)
+numComments=1

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=VertexInfo
+comment0.text=Represents\ information\ stored\ in\ each\ vertex.
+comment1.params=v
+comment1.target=VertexInfo(java.lang.Object)
+comment1.text=Constructs\ information\ for\ the\ given\ vertex.
+comment2.params=
+comment2.target=void\ clear()
+comment2.text=Resets\ the\ previous,\ visited,\ and\ distance\ data\ fields.
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=Returns\ a\ string\ representation\ of\ the\ information\ about\ this\ vertex.
+numComments=4

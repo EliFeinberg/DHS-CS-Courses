@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ A\ simple\ facade\ for\ the\ class\ Point2D.Double\ -\ a\ class\ that\ represents\r\n\ a\ point\ in\ 2D\ space\ with\ Double\ precision.\r\n\ This\ is\ only\ here\ to\ save\ you\ some\ typing\ so\ that\ you\ can\ construct\ points\ like\ this\:\r\n\ \r\n\ Point\ p\ \=\ new\ Point(x,y);\r\n\ rather\ than\:\r\n\ Point2D.Double\ p\ \=\ new\ Point2D.Double(x,y);\r\n\ \r\n\ You\ should\ look\ up\ the\ Point2D.Double\ documentation\ though\ to\ see\ what\ methods\ this\ inherits..\r\n\ Of\ particular\ interest\ to\ you\ will\ be\ the\ method\:\r\n\ \r\n\ double\ distance(Point2D)\r\n\ \r\n\ which\ returns\ the\ distance\ between\ this\ Point\ and\ the\ one\ provided\ to\ the\ method.\r\n\ \r\n\ the\ toString\ method\ has\ been\ overridden\ so\ it\ prints\ something\ reasonable.\r\n\ The\ default\ Point2D.Double\ toString\ method\ prints\ too\ much\ stuff.\r\n\ \r\n
+comment1.params=x\ y
+comment1.target=Point(double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

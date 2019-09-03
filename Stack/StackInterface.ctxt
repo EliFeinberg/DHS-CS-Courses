@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StackInterface
+comment1.params=
+comment1.target=int\ size()
+comment2.params=
+comment2.target=boolean\ empty()
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+comment5.params=item
+comment5.target=java.lang.Object\ push(java.lang.Object)
+comment6.params=
+comment6.target=void\ clear()
+comment7.params=o
+comment7.target=int\ search(java.lang.Object)
+numComments=8

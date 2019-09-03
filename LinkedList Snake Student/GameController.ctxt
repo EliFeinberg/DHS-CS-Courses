@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameController
+comment0.text=\r\n\ The\ class\ that\ controls\ the\ snake\ and\ checks\ for\ a\ win/loss\r\n\r\n
+comment1.params=grid\ gameView
+comment1.target=GameController(Grid,\ GameView)
+comment1.text=\r\n\ Creates\ a\ new\ GameController\r\n\ @param\ Grid\ the\ grid\ used\ by\ the\ game\r\n\ @param\ GameView\ the\ GameView\ to\ put\ the\ game\ onto\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Keeps\ the\ game\ running\ as\ long\ as\ there\ isn't\ a\ reason\ to\ stop\ the\ game\r\n
+comment3.params=e
+comment3.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.text=\r\n\ Checks\ to\ see\ if\ a\ key\ is\ pressed\ and\ changes\ the\ direction\ if\ a\ valid\ arrow\ is\r\n\ @param\ KeyEvent\ any\ time\ a\ key\ is\ pressed\r\n
+comment4.params=e
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.text=\r\n\ A\ method\ in\ order\ to\ implement\ KeyListener\r\n
+comment5.params=e
+comment5.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment5.text=\r\n\ A\ method\ in\ order\ to\ implement\ KeyListener\r\n
+numComments=6

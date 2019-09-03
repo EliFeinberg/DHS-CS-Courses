@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Sorts
+comment0.text=\r\n\ This\ Sorts\ object\ represents\ a\ class\ that\ perform\r\n\ Bubble,\ Selection,\ Insertion,\ Merge,\ Quick,\ and\ Heap\ sorts\r\n\ \r\n\ @author\ \ \r\n\ @version\ \r\n
+comment1.params=array
+comment1.target=Sorts(java.lang.String[])
+comment10.params=first\ last
+comment10.target=int\ split(int,\ int)
+comment11.params=
+comment11.target=void\ heapSort()
+comment2.params=
+comment2.target=void\ bubbleSort()
+comment3.params=
+comment3.target=void\ selectionSort()
+comment4.params=
+comment4.target=void\ insertionSort()
+comment5.params=
+comment5.target=void\ mergeSort()
+comment6.params=first\ last
+comment6.target=void\ mergeSort(int,\ int)
+comment7.params=first\ last
+comment7.target=void\ merge(int,\ int)
+comment8.params=
+comment8.target=void\ quickSort()
+comment9.params=first\ last
+comment9.target=void\ quickSort(int,\ int)
+numComments=12

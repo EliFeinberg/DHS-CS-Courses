@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AbstractGraph
+comment1.params=
+comment1.target=AbstractGraph()
+comment1.text=\ \n\ Constructs\ a\ new\ empty\ undirected\ graph.\n
+comment2.params=
+comment2.target=java.util.Collection\ edges()
+comment2.text=\ \n\ Returns\ this\ graph's\ collection\ of\ edges.\n\ The\ collection\ should\ be\ considered\ read-only.\n\ If\ this\ graph\ contains\ no\ edges,\ returns\ an\ empty\ collection.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\ \n\ Returns\ a\ string\ representation\ of\ this\ graph\ and\ its\ vertices.\ \n
+comment4.params=
+comment4.target=java.util.Collection\ vertices()
+comment4.text=\ \n\ Returns\ a\ collection\ of\ the\ vertices\ in\ this\ graph.\n\ The\ collection\ should\ be\ considered\ read-only.\n\ If\ this\ graph\ contains\ no\ vertices,\ returns\ an\ empty\ collection.\n
+comment5.params=arg
+comment5.target=void\ checkForNull(java.lang.Object)
+comment5.text=\ \n\ Tests\ the\ given\ arguments\ for\ null.\n\ @param\ args\ The\ arguments\ to\ examine.\n\ @throws\ NullPointerException\ If\ any\ argument\ is\ null.\n
+comment6.params=v
+comment6.target=void\ checkVertex(java.lang.Object)
+comment6.text=\ \n\ Tests\ the\ given\ vertices\ for\ null\ and\ for\ membership\ in\ the\ graph.\n\ @param\ v\ The\ vertex\ to\ examine.\n\ @throws\ IllegalArgumentException\ If\ any\ vertex\ is\ not\ part\ of\ this\ graph.\n\ @throws\ NullPointerException\ If\ any\ vertex\ is\ null.\n
+comment7.params=v1\ v2
+comment7.target=void\ checkVertices(java.lang.Object,\ java.lang.Object)
+comment7.text=\ \n\ Tests\ the\ given\ vertices\ for\ null\ and\ for\ membership\ in\ the\ graph.\n\ @param\ v1\ First\ vertex\ to\ examine.\n\ @param\ v2\ Second\ vertex\ to\ examine.\n\ @throws\ IllegalArgumentException\ If\ any\ vertex\ is\ not\ part\ of\ this\ graph.\n\ @throws\ NullPointerException\ If\ any\ vertex\ is\ null.\n
+comment8.params=
+comment8.target=void\ clearVertexInfo()
+comment8.text=\n\ Resets\ all\ distance\ /\ previous\ /\ visited\ markings\ from\ vertex\ info\n\ objects\ in\ this\ graph.\n
+numComments=9

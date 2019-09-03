@@ -1,0 +1,34 @@
+vertex CHI
+vertex HON
+vertex HOU
+vertex LAX
+vertex LV
+vertex MIA
+vertex NO
+vertex NYC
+vertex PHX
+vertex SD
+vertex SEA
+vertex SF
+vertex TOR
+edge CHI LV Flight101 1800
+edge HON TOR Flight102 5000
+edge HOU LV Flight103 1500
+edge HOU NO Flight104 350
+edge HOU PHX Flight105 1150
+edge LAX SD Flight106 150
+edge LAX SF Flight107 400
+edge LV PHX Flight109 300
+edge LV SF Flight110 550
+edge MIA HOU Flight111 1200
+edge MIA NYC Flight112 1350
+edge NO CHI Flight113 900
+edge NO NYC Flight114 1350
+edge NYC CHI Flight115 800
+edge NYC MIA Flight116 1350
+edge NYC PHX Flight117 2450
+edge NYC SEA Flight118 2850
+edge PHX LAX Flight119 400
+edge PHX SEA Flight121 1450
+edge SD HOU Flight122 1500
+edge SEA LV Flight123 1200

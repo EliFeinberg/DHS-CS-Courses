@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LLStringNode
+comment1.params=info
+comment1.target=LLStringNode(java.lang.String)
+comment2.params=info
+comment2.target=void\ setInfo(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getInfo()
+comment4.params=link
+comment4.target=void\ setLink(LLStringNode)
+comment5.params=
+comment5.target=LLStringNode\ getLink()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WordCountCollection
+comment0.text=\r\n\ This\ WordCountCollection\ interface\ represents\ a\ list\ of\ method\r\n\ signatures\ that\ will\ be\ defined\ in\ all\ classes\ that\ implement\ \r\n\ this\ interface.\r\n\ \r\n\ @author\ \ Tom\ Bredemeier\r\n\ @version\ February\ 11,\ 2013\r\n
+comment1.params=
+comment1.target=int\ size()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=element
+comment3.target=void\ add(java.lang.Object)
+comment4.params=element
+comment4.target=java.lang.Object\ fetch(java.lang.Object)
+comment5.params=
+comment5.target=void\ clear()
+comment6.params=
+comment6.target=java.util.List\ createList()
+numComments=7

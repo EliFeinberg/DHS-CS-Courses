@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WordCountCollectionTest
+comment0.text=\r\n\ This\ WordCountCollectionTest\ object\ is\ the\ tester\ class\ for\ the\ \r\n\ Word\ Count\ Collection\ assignment\r\n\ \r\n\ @author\ Tom\ Bredemeier\r\n\ @version\ February\ 11,\ 2013\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=type
+comment2.target=void\ testCollection(java.lang.String)
+comment3.params=
+comment3.target=void\ testInterface()
+comment4.params=type
+comment4.target=void\ collectionTest(java.lang.String)
+comment5.params=str
+comment5.target=void\ failure(java.lang.String)
+comment6.params=string
+comment6.target=void\ processWord(java.lang.String)
+numComments=7

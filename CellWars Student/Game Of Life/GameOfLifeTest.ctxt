@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameOfLifeTest
+comment1.params=
+comment1.target=void\ testConstructorAndGetters()
+comment2.params=
+comment2.target=void\ testGrowCellAtAndCellAt()
+comment3.params=
+comment3.target=void\ testNeighborsWrapping()
+numComments=4

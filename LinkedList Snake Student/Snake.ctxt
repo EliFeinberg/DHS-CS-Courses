@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ The\ snake\ controls\ including\ movement\ and\ eating\r\n\r\n
+comment1.params=
+comment1.target=Snake()
+comment2.params=powerDown
+comment2.target=boolean\ isPowerDown(Node)
+comment2.text=\r\n\ Checks\ to\ see\ if\ the\ snake's\ head\ and\ the\ powerDown\ are\ in\ the\ same\ location\r\n\ @param\ the\ power\ to\ check\r\n\ @return\ Whether\ or\ not\ the\ snake's\ head\ and\ the\ powerDown\ are\ in\ the\ same\ location\r\n
+comment3.params=powerUp
+comment3.target=boolean\ isPowerUp(Node)
+comment3.text=\r\n\ Checks\ to\ see\ if\ the\ snake's\ head\ and\ the\ bad\ food\ are\ in\ the\ same\ location\r\n\ @param\ the\ bad\ food\ to\ check\r\n\ @return\ Whether\ or\ not\ the\ snake's\ head\ and\ the\ bad\ food\ are\ in\ the\ same\ location\r\n
+comment4.params=direction
+comment4.target=Node\ move(Direction)
+comment4.text=\r\n\ Moves\ the\ snake\ by\ having\ each\ node\ "follow"\ the\ one\ before\ it\r\n\ @param\ direction\ the\ direction\ to\ move\r\n\ @return\ the\ last\ node,\ the\ next\ to\ move\r\n
+comment5.params=
+comment5.target=Node\ getHead()
+comment5.text=\r\n\ Returns\ the\ head\ of\ the\ snake\r\n\ @return\ the\ head\ of\ the\ snake\r\n
+comment6.params=node
+comment6.target=Node\ addTail(Node)
+comment6.text=\r\n\ Adds\ a\ node\ to\ the\ tail\r\n\ @param\ Node\ the\ node\ to\ add\ to\ the\ snake\r\n\ @return\ the\ node\ added\r\n
+comment7.params=node
+comment7.target=Node\ cutTail(Node)
+comment7.text=\r\n\ Cuts\ a\ node\ from\ the\ tail\r\n\ @param\ Node\ the\ node\ "removed"\ (thought\ it's\ more\ for\ return\ purposes)\r\n\ @return\ the\ node\ removed\r\n
+comment8.params=
+comment8.target=java.util.LinkedList\ getBody()
+comment8.text=\r\n\ Returns\ the\ body\ of\ the\ snake\r\n\ @return\ the\ nodes\ of\ the\ body\ of\ the\ snake\ in\ a\ LinkedList\r\n
+numComments=9

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Time
+comment1.params=
+comment1.target=Time()
+comment2.params=field
+comment2.target=java.lang.String\ increment(int)
+comment3.params=
+comment3.target=java.lang.String\ getTime()
+comment4.params=
+comment4.target=java.util.Date\ time()
+numComments=5

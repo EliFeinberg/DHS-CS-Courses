@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AudioPlayer
+comment0.text=\r\n\ Audio.java\ \ \r\n\r\n\ @author\:\ Julian\ Nisenboim\ \r\n\ \ \ \ \ \ \ \ \ \ Seth\ Friman\ added\ adjust\ volume\ method\r\n\ \ \ \ \ \ \ \ \ \ Used\ by\ Katharine\ Stecher\ and\ Allison\ Wexler\ with\ permission\r\n\ \r\n\ Brief\ Program\ Description\:\ Allows\ for\ audio\ clips\ to\ be\ added\ to\ a\ project\r\n\ \r\n\r\n
+comment1.params=s
+comment1.target=AudioPlayer(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ the\ AudioPlayer\ Class\r\n\ \r\n\ @param\ String\ a\ sound\ file\ to\ be\ accessed\ in\ the\ project\ files\r\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\r\n\ plays\ the\ audio\ file\r\n
+comment3.params=decibels
+comment3.target=void\ adjustVolume(java.lang.Float)
+comment3.text=\r\n\ adjusts\ the\ volume\ of\ the\ sound\ by\ a\ specified\ number\ of\ decibels\r\n\ \r\n\ @param\ Float\ the\ decibels\ to\ be\ increased\ by\r\n
+comment4.params=
+comment4.target=void\ stop()
+comment4.text=\r\n\ stops\ the\ sound\r\n
+comment5.params=
+comment5.target=void\ close()
+comment5.text=\r\n\ closes\ the\ clip\r\n
+numComments=6

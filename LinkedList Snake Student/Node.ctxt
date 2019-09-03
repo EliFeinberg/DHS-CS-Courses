@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ Blueprint\ for\ a\ node\ of\ the\ snake\n\n
+comment1.params=x\ y
+comment1.target=Node(int,\ int)
+comment1.text=\n\ Creates\ a\ new\ node\n\ @param\ x\ the\ x\ position\ of\ the\ node\n\ @param\ y\ the\ y\ position\ of\ the\ node\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\n\ Gets\ the\ x\ position\ of\ the\ node\ \n\ @return\ the\ x\ position\ of\ the\ node\ \n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\n\ Gets\ the\ y\ position\ of\ the\ node\ \n\ @return\ the\ y\ position\ of\ the\ node\ \n
+numComments=4

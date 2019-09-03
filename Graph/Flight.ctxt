@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=fromVertex\ toVertex\ distance
+comment0.target=Flight(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getFromVertex()
+comment2.params=
+comment2.target=java.lang.String\ getToVertex()
+comment3.params=
+comment3.target=int\ getDistance()
+comment4.params=vertex
+comment4.target=void\ setFromVertex(java.lang.String)
+comment5.params=vertex
+comment5.target=void\ setToVertex(java.lang.String)
+comment6.params=distance
+comment6.target=void\ setDistance(int)
+comment7.params=other
+comment7.target=int\ compareTo(Flight)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

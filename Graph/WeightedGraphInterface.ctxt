@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ empty()
+comment1.params=
+comment1.target=boolean\ full()
+comment10.params=
+comment10.target=java.lang.Object\ getUnmarked()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=vertex
+comment2.target=void\ addVertex(java.lang.Object)
+comment3.params=vertex
+comment3.target=boolean\ hasVertex(java.lang.Object)
+comment4.params=fromVertex\ toVertex\ weight
+comment4.target=void\ setEdge(java.lang.Object,\ java.lang.Object,\ int)
+comment5.params=fromVertex\ toVertex
+comment5.target=int\ weightIs(java.lang.Object,\ java.lang.Object)
+comment6.params=vertex
+comment6.target=QueueInterface\ getAdjacentVertices(java.lang.Object)
+comment7.params=
+comment7.target=void\ clearMarks()
+comment8.params=vertex
+comment8.target=void\ markVertex(java.lang.Object)
+comment9.params=vertex
+comment9.target=boolean\ isMarked(java.lang.Object)
+numComments=12

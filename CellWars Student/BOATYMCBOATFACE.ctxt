@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=BOATYMCBOATFACE
+comment0.text=\r\n\ BOATYMCBOATFACE.java\ \ \r\n\r\n\ @author\:\r\n\ Assignment\ \#\:\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ \r\n\r\n
+comment1.params=
+comment1.target=java.lang.String\ getAIName()
+comment2.params=grids
+comment2.target=Location\ select(Grid)
+comment3.params=grid\ ID
+comment3.target=Location\ failSafe(Grid,\ int)
+comment4.params=row\ col\ grid\ ID
+comment4.target=int\ neighborCount(int,\ int,\ Grid,\ int)
+comment5.params=row\ col\ grid\ ID
+comment5.target=int\ neighborCountE(int,\ int,\ Grid,\ int)
+comment6.params=grid\ r\ c\ ID
+comment6.target=boolean\ boxKiller(Grid,\ int,\ int,\ int)
+comment7.params=grid\ r\ c\ ID
+comment7.target=boolean\ LineKiller(Grid,\ int,\ int,\ int)
+comment8.params=grid\ r\ c\ ID
+comment8.target=boolean\ checkstillLife(Grid,\ int,\ int,\ int)
+numComments=9

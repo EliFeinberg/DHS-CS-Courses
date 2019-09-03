@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ size()
+comment1.params=
+comment1.target=boolean\ empty()
+comment2.params=element
+comment2.target=java.lang.Comparable\ add(java.lang.Comparable)
+comment3.params=
+comment3.target=java.lang.Comparable\ peek()
+comment4.params=
+comment4.target=java.lang.Comparable\ remove()
+comment5.params=
+comment5.target=void\ clear()
+numComments=6
